@@ -1,0 +1,17 @@
+{
+  "name": "intellifinodejs",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "intellifi"
+  ],
+  "author": "Satrya Budi Pratama",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
